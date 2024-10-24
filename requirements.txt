@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+python-docx
+pandas
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+pyttsx3
+SpeechRecognition
+openpyxl
